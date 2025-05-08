@@ -21,12 +21,6 @@ tmux dotfiles inspired by [craftzdog](https://github.com/craftzdog/dotfiles-publ
   git clone https://github.com/dgpalmer/remlap-tmux ~/.config/tmux
   ```
 
-- Remove the `.git` folder, so you can add it to your own repo later
-
-  ```sh
-  rm -rf ~/.config/remlap-tux/.git
-  ```
-
 - Start Tmux!
 
   ```sh
